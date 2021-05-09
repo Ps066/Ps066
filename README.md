@@ -45,7 +45,7 @@
 <img align="left" alt="blender" width="26px" src="https://img.icons8.com/color/2x/blender-3d.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/2x/c-programming.png" />
-<img align="left" alt="C#" width="26px" src="https://image.flaticon.com/icons/png/128/358/358879.png" />
+<img align="left" alt="C#" width="26px" src="https://img.icons8.com/officel/2x/cs.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/2x/pycharm.png" />
 
 <br />
