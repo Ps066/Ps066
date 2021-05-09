@@ -5,7 +5,7 @@
 ## I'm a Programmer ,Game developer,Math lover , and space voyager!!
 
 - 🔭 I m just busy with Python <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/smiling-face-with-hearts.gif" width=22px>
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/beaming-face-with-smiling-eyes-1.gif" width=22px>
 - 👯 I’m looking to improve my skils
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing , sketch, and animate.
