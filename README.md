@@ -50,7 +50,7 @@
 <br />
 
 ---
-
+[![Ps066's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ps066&theme=tokyonight)](https://github.com/Ps066/github-readme-stats)
 
 
 
