@@ -1,4 +1,4 @@
-# What's up Aliens , I'm Ps - aka Prashant 👋
+# What's up Aliens , I'm Ps - aka Prashant <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
