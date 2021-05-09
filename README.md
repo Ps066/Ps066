@@ -54,7 +54,7 @@
 ---
 [![Ps066's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ps066&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/Ps066/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/Ps066/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&layout=compact&show_icons=true)](https://github.com/Ps066/github-readme-stats)
 
 
 
