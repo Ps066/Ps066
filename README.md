@@ -40,7 +40,7 @@
 <img align="left" alt="Git" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111288.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/128/733/733553.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1387/1387537.svg?token=exp=1620558759~hmac=ae75e5ed242fc4632a10dc38a1e796bd" />
+<img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/128/1822/1822899.png" />
 <img align="left" alt="unity" width="26px" src="https://img.icons8.com/dusk/2x/unity.png" />
 <img align="left" alt="blender" width="26px" src="https://img.icons8.com/color/2x/blender-3d.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
