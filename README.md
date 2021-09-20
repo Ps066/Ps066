@@ -56,7 +56,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&layout=compact&show_icons=true&align="center")](https://github.com/Ps066/github-readme-stats)
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&layout=compact&show_icons=true" />
 </div>
 
 <div align="center">
