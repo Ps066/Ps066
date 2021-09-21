@@ -72,7 +72,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ps066"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ps066&v=2"/>
 </div>
 
 
