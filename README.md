@@ -15,12 +15,14 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/cowboy-hat-face.gif" width=22px>
 - ⚡ Fun fact: I love to sing , sketch, and animate.
 
+---
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9oetejl40g39p7lph93tjijcb&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
-
+---
 
 
 
@@ -36,6 +38,8 @@
 
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -63,13 +67,12 @@
 
 ---
 
-<div align="center">
+<div align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=Ps066&theme=tokyonight&count_private=true&show_icons=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&show_icons=true" />
 </div>
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&layout=compact&show_icons=true" />
-</div>
+---
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Ps066&no-frame=true" />
