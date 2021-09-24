@@ -28,7 +28,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ps066 | Twitter" width="22px" src="https://github.com/Ps066/Ps066/blob/main/globe.gif" />][twitter]
+[<img align="left" alt="Ps066 | Twitter" width="30px" src="https://github.com/Ps066/Ps066/blob/main/globe.gif" />]
 
 [<img align="left" alt="Ps066 | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />][linkedin]
