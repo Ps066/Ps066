@@ -28,12 +28,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ps066 | Twitter" width="30px" src="https://github.com/Ps066/Ps066/blob/main/globe.gif" />]
+[<img align="left" alt="Ps066 | Mysite" width="30px" src="https://github.com/Ps066/Ps066/blob/main/globe.gif" />][twitter]
 
-[<img align="left" alt="Ps066 | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />][linkedin]
-[<img align="left" alt="Ps066 | stack over flow" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111628.png" />][stackoverflow]
-[<img align="left" alt="Ps066 | itch.io" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9kvpVBC5BGJjLDRVPQvRhyeOM0HEsIb3mTg&usqp=CAU" />][itch.io]
+[<img align="left" alt="Ps066 | Twitter" width="30px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />][twitter]
+[<img align="left" alt="Ps066 | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />][linkedin]
+[<img align="left" alt="Ps066 | stack over flow" width="30px" src="https://image.flaticon.com/icons/png/128/2111/2111628.png" />][stackoverflow]
+[<img align="left" alt="Ps066 | itch.io" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9kvpVBC5BGJjLDRVPQvRhyeOM0HEsIb3mTg&usqp=CAU" />][itch.io]
 
 
 
