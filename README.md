@@ -107,21 +107,4 @@
   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-heart_2764-fe0f.png"width=44px</b>
 </p>
    
- ---
  
-<br/>
-<p align="center"> 
-  UFO visted My Profile<br>
-  
-  <img src="https://profile-counter.glitch.me/Ps066/count.svg" />
-</p>
-<p align="center">
-  <b>Thanks For Visiting My Profile
-  <br/> 
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-heart_2764-fe0f.png"width=44px</b>
-</p>
-
----
-
-<img src="https://github.com/Ps066/Ps066/blob/main/flying_saucer.gif" width=22px>
-  
