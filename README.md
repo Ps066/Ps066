@@ -50,7 +50,7 @@
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/128/1265/1265531.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Git" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111288.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/Ps066/Ps066/blob/main/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/128/733/733553.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/128/1822/1822899.png" />
