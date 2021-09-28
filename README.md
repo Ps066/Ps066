@@ -44,7 +44,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Ps066/Ps066/blob/main/visual-studio-code-2019.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/dusk/2x/css3.png" />
 
 
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/128/1265/1265531.png" />
