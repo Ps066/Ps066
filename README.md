@@ -35,6 +35,7 @@
 [<img align="left" alt="Ps066 | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />][linkedin]
 [<img align="left" alt="Ps066 | stack over flow" width="30px" src="https://image.flaticon.com/icons/png/128/2111/2111628.png" />][stackoverflow]
 [<img align="left" alt="Ps066 | itch.io" width="30px" src="https://github.com/Ps066/Ps066/blob/main/output-onlinepngtools.png" />][itch.io]
+[<img align="left" alt="Ps066 | Mysite" width="30px" src="https://github.com/Ps066/Ps066/blob/main/HackerRank_logo.png" />][hackerrank]
 
 
 
@@ -91,6 +92,7 @@
 [linkedin]: https://linkedin.com/in/prashant-shukla-4b0688209
 [stackoverflow]: https://stackoverflow.com/users/15013114/p-s
 [itch.io]:https://ps066.itch.io/
+[hackerrank]: https://www.hackerrank.com/prashantshukla03
 
 ---
 <br/>
