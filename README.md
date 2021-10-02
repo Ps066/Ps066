@@ -106,7 +106,7 @@
 [linkedin]: https://linkedin.com/in/prashant-shukla-4b0688209
 [stackoverflow]: https://stackoverflow.com/users/15013114/p-s
 [itch.io]:https://ps066.itch.io/
-[hackerrank]: https://www.hackerrank.com/prashantshukla03
+[hackerrank]: https://www.hackerrank.com/Ps066
 
 ---
 <br/>
