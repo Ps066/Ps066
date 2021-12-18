@@ -103,7 +103,7 @@
 
 
 [twitter]: https://twitter.com/Ps_066
-[linkedin]: https://linkedin.com/in/prashant-shukla-4b0688209
+[linkedin]:https://www.linkedin.com/in/ps066/
 [stackoverflow]: https://stackoverflow.com/users/15013114/p-s
 [itch.io]:https://ps066.itch.io/
 [hackerrank]: https://www.hackerrank.com/Ps066
