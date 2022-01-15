@@ -30,7 +30,7 @@
 
 [<img src="https://github.com/Ps066/Ps066/blob/main/mail_ccexpress.png?raw=true" />](mailto:prashantshukla0666@gmail.com)
 
-[<img align="left" alt="Ps066 | Mysite" width="30px" src="https://github.com/Ps066/Ps066/blob/main/globe.gif" />][twitter]
+[<img align="left" alt="Ps066 | Mysite" width="40px" src="https://github.com/Ps066/Ps066/blob/main/globe.gif" />][twitter]
 
 
 [<img align="left" alt="Ps066 | Twitter" width="30px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />][twitter]
