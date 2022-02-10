@@ -1,4 +1,4 @@
-# What's up Aliens , I'm Ps - aka Prashant <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# What's up Aliens , I'm Prashant - aka Ps <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ![](https://komarev.com/ghpvc/?username=Ps066&color=blue&style=plastic)
