@@ -109,13 +109,13 @@
 </div>
 
 
-
+<!-- https://stackoverflow.com/users/15013114/p-s -->
  
 
 
 [twitter]: https://twitter.com/Ps_066
 [linkedin]:https://www.linkedin.com/in/ps066/
-[stackoverflow]: https://stackoverflow.com/users/15013114/p-s
+[stackoverflow]: https://stackoverflow.com/story/ps066
 [itch.io]:https://ps066.itch.io/
 [hackerrank]: https://www.hackerrank.com/Ps066
 
