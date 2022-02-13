@@ -89,7 +89,7 @@
 
 ---
 
-<div align="center">
+<div >
    <img src="https://github-readme-stats.vercel.app/api?username=Ps066&theme=tokyonight&count_private=true&show_icons=true" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&show_icons=true&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ps066&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
