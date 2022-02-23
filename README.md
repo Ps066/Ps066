@@ -8,7 +8,7 @@
 
 
 ## I'm a Programmer ,Game developer,Math lover , and space voyager!!
-
+- <img src="https://img.icons8.com/fluent/50/000000/android-os.png" width=25px /> Android Developer  
 - 🔭 I m just busy with Python <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/smiling-face-with-hearts.gif" width=22px>
 - 🌱 I’m currently learning everything <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/beaming-face-with-smiling-eyes-1.gif" width=22px>
 - 👯 I’m looking to improve my skils
