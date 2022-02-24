@@ -11,7 +11,7 @@
 - <img src="https://img.icons8.com/fluent/50/000000/android-os.png" width=25px /> Android Developer 
 - 🔭 I m just busy with Python <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/smiling-face-with-hearts.gif" width=22px>
 - 🌱 I’m currently learning everything <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/beaming-face-with-smiling-eyes-1.gif" width=22px>
--  Learning React native Developement for   <img src="https://img.icons8.com/fluent/50/000000/android-os.png" width=20px /> &  <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-apple-medical-kiranshastry-gradient-kiranshastry.png" width=30/>
+-  Learning React native Developement for   <img src="https://img.icons8.com/fluent/50/000000/android-os.png" width=20px /> &  <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-apple-medical-kiranshastry-gradient-kiranshastry.png" width=20/>
 - 👯 I’m looking to improve my skils
 - 🥅 2022 Goals: Contribute more to Open Source projects <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/cowboy-hat-face.gif" width=22px>
 - ⚡ Fun fact: I love to sing , sketch, and animate.
