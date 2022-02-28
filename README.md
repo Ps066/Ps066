@@ -36,7 +36,8 @@
 
 [<img align="left" alt="Ps066 | Twitter" width="30px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />][twitter]
 [<img align="left" alt="Ps066 | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />][linkedin]
-[<img align="left" alt="Ps066 | stack over flow" width="30px" src="https://image.flaticon.com/icons/png/128/2111/2111628.png" />][stackoverflow]
+<!-- [<img align="left" alt="Ps066 | stack over flow" width="30px" src="https://image.flaticon.com/icons/png/128/2111/2111628.png" />][stackoverflow] -->
+[<img align="left" alt="Ps066 | stack over flow" width="30px" src="https://img.icons8.com/color-glass/50/000000/stackoverflow.png"/>][stackoverflow]
 [<img align="left" alt="Ps066 | itch.io" width="30px" src="https://github.com/Ps066/Ps066/blob/main/output-onlinepngtools.png" />][itch.io]
 [<img align="left" alt="Ps066 | Mysite" width="30px" src="https://github.com/Ps066/Ps066/blob/main/HackerRank_logo.png" />][hackerrank]
 
@@ -45,6 +46,8 @@
 <br />
 
 ---
+
+
 
 ### Me at competitive World
 
