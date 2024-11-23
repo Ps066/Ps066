@@ -39,6 +39,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Ps066&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ps066&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B&column=4&theme=nord&no-frame=true" align="center"/>
 </p>
 
 ---
@@ -111,24 +113,13 @@
 
 ---
 
-<div >
-   <img src="https://github-readme-stats.vercel.app/api?username=Ps066&theme=tokyonight&count_private=true&show_icons=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&show_icons=true&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ps066&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-   
-   
-    
-</div>
-
----
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Ps066&no-frame=true" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ps066&v=2"/>
-</div>
+<p align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=Ps066&no-bg=true&theme=dark_dimmed&rank=SSS,SS,S,AAA,AA,A,B" />
+  
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ps066\&layout=compact&v=2&theme=dark"/>
+  </div>
+</p>
 
 
 <!-- https://stackoverflow.com/users/15013114/p-s -->
