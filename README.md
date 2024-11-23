@@ -32,6 +32,15 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats-rust-zeta.vercel.app/?user=Ps066&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps066&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+---
+
 
 
 ### Connect with me:
