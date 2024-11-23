@@ -1,3 +1,7 @@
+<a href="www.github.com/Prashants126"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Prashant%20Shukla&reversal=false&textBg=false&desc=Full%20Stack%20Developer&descSize=20&animation=fadeIn" alt="Prashnat Shukla" width="1500"/></a>
+
+
+
 # What's up Aliens , I'm Prashant - aka Ps <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 
 
